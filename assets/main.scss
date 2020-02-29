@@ -1,0 +1,6 @@
+// Optionally override some settings
+// $color-brand: #ffffff;
+
+// Import the theme
+@import "node_modules/vanilla-framework/scss/vanilla";
+@include vanilla;
